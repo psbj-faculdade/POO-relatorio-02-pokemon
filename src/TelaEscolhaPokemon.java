@@ -20,7 +20,8 @@ public class TelaEscolhaPokemon extends JFrame {
         jButton.setFont(new Font("Arial", Font.BOLD, 20));
         jButton.setForeground(new Color(15, 15, 15));
         jButton.setBackground(new Color(250, 162, 137));
-        add(jButton);
+        
+        //add(jButton);
 
 
     }
